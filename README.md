@@ -4,7 +4,7 @@ Everything was set up so each project was that the main folder had three sub-fol
 
 Restaraunt was the following:
 main folder:
-    <folder> scripts:
+    sub-folder scripts:
         form.js
     <folder> styles:
         restarauntStyles.css
